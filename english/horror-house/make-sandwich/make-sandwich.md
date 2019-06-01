@@ -1,0 +1,3 @@
+You continue to make your sandwich while trying find some logic to an unlogical situation. The phone was broken for sure, it had to be, considering I was the one who broke it by mistake. Yea it had to be broken, but why was it ringing, it didn't make sense. The ringing continued as well as the distortion of the ring, you turn your head to Lucky, who is sound asleep and un-affected by what was happening in the kitchen. 
+
+Finally you make your way to the phone and answer it, "Hello", Hey honey its mom . "Oh hey mom", just checking up on you how's everything? How's Lucky? "Im fine just making some dinner ,Lucky is fine he is sound asleep in the den."
