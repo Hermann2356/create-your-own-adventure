@@ -4,6 +4,6 @@ It was any typical Friday night, reruns of Modern Family were playing on the 40'
 
 You are in the kitchen making yourself a PBJ sandwich, which is honestly a recipe in your case no 14-year-old girl could get wrong and a recipe you pride yourself as your signature dish of choice. In the process of making the sandwich the phone rings, ring...ring...ring..., you look up from the sandwich and you stare at the phone hanging from the wall facing the kitchen counter. You hesitate to answer because prior to the ring you had the assumption that the phone was broken; unable to ring. But it wasn't the ring that made you hesitate as much as the sound of the ring, it was distorted like the sound wave was being stretched and pulled.
 
-[Pick up phone](english/horror-house/pick-up-phone/pick-up-phone.md)
+[Pick up phone](https://github.com/Hermann2356/create-your-own-adventure/blob/master/english/horror-house/pick-up-phone/pick-up-phone.md)
 
-[Continue to make sandwich](english/horror-house/make-sandwich/make-sandwich.md)
+[Continue to make sandwich](https://github.com/Hermann2356/create-your-own-adventure/blob/master/english/horror-house/make-sandwich/make-sandwich.md)
