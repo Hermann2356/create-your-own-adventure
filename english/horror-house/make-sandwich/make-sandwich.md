@@ -11,5 +11,5 @@ Realizing you were still on the phone, you reply once more, "Hello,"
 no reply, annoyed, you hang up the phone. 
 As you make your way back to the counter, you see something in your peripheral.
 
-[Look towards den.](english/horror-house/pick-up-phone/the-den/the-den2.md)
+[Look towards den.](https://github.com/Hermann2356/create-your-own-adventure/blob/master/english/horror-house/make-sandwich/the-den2/the-den2.md)
 
