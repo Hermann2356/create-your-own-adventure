@@ -2,5 +2,5 @@ As the phone continue to make the strange distorted sound, you  move your way ar
 
 You look back to clarify the truth to any predictable horror plot , but their was no one. "Phew!, thank god", the scene behind you didn't change, everything was where it was last, before answering the phone. Lucky was still sound asleep on the chair and the half made sandwich was still on the counter, relieved, you place the phone back on the hook. Walking back to counter you resume constructing the pbj, a few moment pass and you hear a slight whimper to right of you from the den. 
 
-[Look towards den.](english/horror-house/pick-up-phone/the-den/the-den.md)
+[Look towards den.](https://github.com/Hermann2356/create-your-own-adventure/blob/master/english/horror-house/pick-up-phone/the-den/the-den.md)
 
